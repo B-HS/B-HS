@@ -26,9 +26,14 @@
 
 
 ---
-😀 History 
-- Interpreter for JP ↔ KR
-- LQA tester 
+
+<details> 
+<summary>😀 Career history </summary>
+- Interpreter for JP ↔ KR<br>
+- LQA tester  
+</details>
+
+
 ---
 🧨 etc.
 
