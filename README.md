@@ -1,6 +1,6 @@
 <div align="center">
- <img src="img/image1.png" width="150px"></img>
-   <h2>🙇Hello there ! I'm Hyunseok<img src="img/wave-hello.gif" width="25px"><br></h2>
+ <img src="img/image1.png" width="100px"></img>
+   <h2><img src="img/wave-hello.gif" width="25px">Hello there ! I'm Hyunseok🙇<br></h2>
  <img src="https://img.shields.io/badge/-Python-b0e0e6?style=flat&logo=Python"> <img src="https://img.shields.io/badge/-HTML-f0ffff?style=flat&logo=html5"> <img src="https://img.shields.io/badge/-CSS-0000FF?style=flat&logo=CSS3">
  <br>
  <a href="https://instagram.com/hyun_seok_b" >
@@ -20,10 +20,6 @@
 - Java
 - Vue.js
 
-Also I write the algorithm articles on my blog ! 
-<sub>(currently paused)</sub><br>
-Please refer the below link if you can read the Korean and interested!<br>
-<a href="https://hbyun.tistory.com">Link</a>
 
 ---
 😀 History 
