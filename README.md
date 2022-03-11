@@ -1,6 +1,10 @@
 <div align="center">
  <img src="img/image1.png" width="100px"></img>
-   <h2><img src="img/wave-hello.gif" width="25px">Hello there ! I'm Hyunseok🙇<br></h2>
+
+ ---
+
+   <span><img src="img/wave-hello.gif" width="25px">Hello there ! I'm Hyunseok🙇
+
  <img src="https://img.shields.io/badge/-Python-b0e0e6?style=flat&logo=Python"> <img src="https://img.shields.io/badge/-HTML-f0ffff?style=flat&logo=html5"> <img src="https://img.shields.io/badge/-CSS-0000FF?style=flat&logo=CSS3">
  <br>
  <a href="https://instagram.com/hyun_seok_b" >
@@ -26,3 +30,6 @@
 - Interpreter for JP ↔ KR
 - LQA tester 
 ---
+🧨 etc.
+
+<a href="https://solved.ac/hseoks/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hseoks" width="250px"></a>
