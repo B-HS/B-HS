@@ -1,24 +1,9 @@
-<head>
-    <style>
-        .top{
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-    </style>    
-</head>
+<center>
+<img src="img/image1.png" width="150px"></img>
+  <h2>🙇Hello there ! I'm Hyunseok<img src="img/wave-hello.gif" width="25px"></h2>
+  <sub>✉ Mail : gumyoincirno@gmail.com</sub>
 
 
-<div class="top">
- <div>
-  <h2>🙇Hello there ! </h2>
-  <h3>I'm Hyunseok<img src="img/wave-hello.gif" width="25px"></h3>
-  <h6>✉ Mail : gumyoincirno@gmail.com</h3>
-  </div>
-  <div>
-  <img src="img/image1.png" width="150px"></img>
-  </div>
-</div>
 
 <img src="https://img.shields.io/badge/-Python-b0e0e6?style=flat&logo=Python"> <img src="https://img.shields.io/badge/-HTML-f0ffff?style=flat&logo=html5"> <img src="https://img.shields.io/badge/-CSS-0000FF?style=flat&logo=CSS3">
 <br>
@@ -49,6 +34,3 @@ Please refer the below link if you can read the Korean and interested!<br>
 - Interpreter for JP ↔ KR
 - LQA tester 
 ---
-[![Solved.ac profile](http://mazassumnida.wtf/api/generate_badge?boj={hseoks})](https://solved.ac/{hseoks})
-
-
