@@ -1,14 +1,3 @@
-<head>
-    <style>
-        .top{
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-    </style>    
-</head>
-
-
 <div class="top">
  <div>
   <h2>🙇Hello there ! </h2>
