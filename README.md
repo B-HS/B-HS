@@ -16,10 +16,10 @@
 💬 Currently I'm ..
 - on studying algorithm with Python
 - on studying HTML+CSS+JS
+- on studying vue.js
 
 📅 Learning plans
 - Java
-- Vue.js
 
 
 ---
