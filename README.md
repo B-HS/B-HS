@@ -17,7 +17,7 @@
 ---
 
 💬 Currently I'm ..
--- learning programming from gov education
+- learning programming from gov education
 - on studying algorithm with Python
 - on studying HTML+CSS+JS
 - on studying vue.js
