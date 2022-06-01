@@ -1,7 +1,7 @@
 <div align="center">
  <img src="img/image1.png" width="100px"></img>
  
-   <span><img src="img/wave-hello.gif" width="25px">Hello there ! I'm Hyunseok🙇
+   <span>Hello there ! I'm Hyunseok🙇
 
  <img src="https://img.shields.io/badge/-Python-b0e0e6?style=flat&logo=Python"> <img src="https://img.shields.io/badge/-HTML-f0ffff?style=flat&logo=html5"> 
  <img src="https://img.shields.io/badge/-CSS-0000FF?style=flat&logo=CSS3">
