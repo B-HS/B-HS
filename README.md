@@ -24,7 +24,7 @@
 
 📅 Learning plans
 - Java
-- Mongo DB
+- Oracle DB
 ---
 
 <details> 
