@@ -21,10 +21,10 @@
 - on studying algorithm with Python
 - on studying HTML+CSS+JS
 - on studying vue.js
+- on studying Oracle DB
 
 📅 Learning plans
 - Java
-- Oracle DB
 ---
 
 <details> 
@@ -36,5 +36,4 @@
 
 ---
 🧨 etc.
-
 <a href="https://solved.ac/hseoks/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hseoks" width="250px"></a>
