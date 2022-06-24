@@ -25,7 +25,9 @@
 - Java
 
 📅 Learning plans
-
+- Docker
+- Centos7
+- Swift
 ---
 
 <details> 
