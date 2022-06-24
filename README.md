@@ -22,9 +22,10 @@
 - on studying HTML+CSS+JS
 - on studying vue.js
 - on studying Oracle DB
+- Java
 
 📅 Learning plans
-- Java
+
 ---
 
 <details> 
