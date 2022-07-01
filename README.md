@@ -22,11 +22,10 @@
 - on studying HTML+CSS+JS
 - on studying vue.js
 - on studying Oracle DB
-- Java
+- on studying JAVA
 
 📅 Learning plans
 - Docker
-- Centos7
 - Swift
 ---
 
