@@ -16,8 +16,8 @@
 - on studying algorithm with Python
 - on studying HTML+CSS+JS
 - on studying vue.js
-- on studying Oracle DB
-- on studying JAVA
+- on studying MariaDB + Mysql
+- on studying JAVA + Spring boot
 
 📅 Learning plans
 - Docker
