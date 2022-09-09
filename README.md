@@ -20,8 +20,7 @@
 - on studying JAVA + Spring boot
 
 📅 Learning plans
-- Docker
-- Swift
+- ...
 ---
 
 <details> 
