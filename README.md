@@ -11,18 +11,6 @@
 
 ---
 
-💬 Currently I'm ..
-- learning programming from gov education
-- on studying algorithm with Python
-- on studying HTML+CSS+JS
-- on studying vue.js
-- on studying MariaDB + Mysql
-- on studying JAVA + Spring boot
-
-📅 Learning plans
-- ...
----
-
 <details> 
 <summary>😀 Career history </summary>
 - Interpreter for JP ↔ KR<br>
