@@ -8,8 +8,3 @@
  <a href="https://hbyun.tistory.com/"><img src="https://t1.daumcdn.net/tistory_admin/static/top/favicon_0630.ico" width="22px"></a>
  <a href="mailto:gumyoincirno@gmail.com"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="22px"></a>
 </div>
-
----
-🧨 etc.
-
-<a href="https://solved.ac/hseoks/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hseoks" width="250px"></a>
