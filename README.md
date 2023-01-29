@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/Cent%20OS_7-262577?style=flat&logo=centos&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-EEA000?style=flat&logo=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/Red%20Hat_9-EE0000?style=flat&logo=redhat&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Amazon_Lightsail-232F3E?style=flat&logo=amazon-aws&logoColor=white">
