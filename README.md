@@ -5,8 +5,6 @@
 <a href="https://www.facebook.com/hyunsuk.byun.56"><img src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico" width="22px"></a>
 <a href="https://hbyun.tistory.com/"><img src="https://t1.daumcdn.net/tistory_admin/static/top/favicon_0630.ico" width="22px"></a>
 <a href="mailto:gumyoincirno@gmail.com"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="22px"></a><br>
-<span>https://hyns.dev</span><br>
-<span>https://gumyo.net</span><br>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white">
