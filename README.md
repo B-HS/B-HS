@@ -1,3 +1,5 @@
+<span>~1.21 깃허브 쉬는중 (환경 정리)</span><br><br>
+![image](https://github.com/B-HS/B-HS/assets/49316060/fc283673-bccb-46e8-a0f7-18f86a911ad5)
 
 <img src="img/image1.png" width="100px"></img>
 <br>
