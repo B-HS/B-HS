@@ -1,8 +1,4 @@
-<span>~1.21 깃허브 쉬는중 (환경 정리)</span><br><br>
-![image](https://github.com/B-HS/B-HS/assets/49316060/fc283673-bccb-46e8-a0f7-18f86a911ad5)
 
-<img src="img/image1.png" width="100px"></img>
-<br>
 <a href="https://instagram.com/hyun_seok_b" ><img src="https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico" width="22px"></a>
 <a href="https://www.facebook.com/hyunsuk.byun.56"><img src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico" width="22px"></a>
 <a href="https://hbyun.tistory.com/"><img src="https://t1.daumcdn.net/tistory_admin/static/top/favicon_0630.ico" width="22px"></a>
