@@ -1,10 +1,7 @@
-<img src="img/image1.png" width="100px"></img>
+<img src="img/image1.png" width="200px"></img>
 <br/>
-<img src="https://github.com/B-HS/B-HS/assets/49316060/72a06445-7d92-4b69-8656-8df78c722ab2" width="300px"></img><br/>
-<span>I'm in death march in this february weekdays, so there are no commits XD</span>
-<br/><br/><br/>
-<a href="https://hbyun.tistory.com/"><img src="https://t1.daumcdn.net/tistory_admin/static/top/favicon_0630.ico" width="22px"></a>
-<a href="mailto:gumyoincirno@gmail.com"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="22px"></a><br>
+<a href="https://hbyun.tistory.com/"><img src="https://t1.daumcdn.net/tistory_admin/static/top/favicon_0630.ico" width="36px"></a>
+<a href="mailto:gumyoincirno@gmail.com"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="36px"></a><br>
 <img src="https://bicon.gumyo.net/api/icon?width=1250&height=250&icon=ts&text=TypeScript&bgColor=%230066C6&borderRadius=20&textColor=%23FFF" height="25px" width="125px"/>
 <img src="https://bicon.gumyo.net/api/icon?width=1250&height=250&icon=js&text=JavaScript&bgColor=%23EC0&borderRadius=20&textColor=%23000" height="25px" width="125px"/>
 <img src="https://bicon.gumyo.net/api/icon?width=1250&height=250&icon=java&text=J+a+v+a&bgColor=%23F5F5F5&borderRadius=20&textColor=%23000" height="25px" width="125px"/>
