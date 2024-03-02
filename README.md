@@ -15,4 +15,4 @@
 <img src="https://bicon.gumyo.net/api/icon?width=1250&height=250&icon=express&text=Express.JS&bgColor=%23999&borderRadius=20&textColor=%23FFF" height="25px" width="125px"/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B-HS&layout=compact&hide=javascript,html,css,c%2B%2B,scss,sass,cmake)](https://github.com/b-hs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B-HS&layout=compact&hide=javascript,html,css,c%2B%2B,scss,sass,cmake,mdx)](https://github.com/b-hs)
