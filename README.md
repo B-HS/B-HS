@@ -1,7 +1,10 @@
 <img src="img/image1.png" width="200px"></img><br/>
-## Contact
+##### Contact
 <a href="https://hbyun.tistory.com/"><img src="https://t1.daumcdn.net/tistory_admin/static/top/favicon_0630.ico" width="36px"></a>
-<a href="mailto:gumyoincirno@gmail.com"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="36px"></a><br>
+<a href="mailto:gumyoincirno@gmail.com"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="36px"></a>
+
+
+###### Now using these for work.
 <section>
 <img src="https://bicon.gumyo.net/api/icon?width=1640&height=250&textColor=%23FFF&text=Typescript&borderRadius=20&icon=ts&bgColor=%23007aFF" height="25px" width="164px" />
 <img src="https://bicon.gumyo.net/api/icon?width=1640&height=250&icon=js&text=JavaScript&bgColor=%23EC0&borderRadius=20&textColor=%23000" height="25px" width="164px" />
@@ -12,6 +15,8 @@
 <img src="https://bicon.gumyo.net/api/icon?width=800&height=250&icon=next&text=Next&bgColor=%23777&borderRadius=20&textColor=%23FFF" height="25px" width="80px" />
 <img src="https://bicon.gumyo.net/api/icon?width=800&height=250&cIcon=https%3A%2F%2Fimg.gumyo.net%2Fhono-logo.svg&text=Hono&bgColor=%23C55&borderRadius=20&textColor=%23FFF" height="25px" width="80px" />
 </section>
+
+
 
 ###### Not using anymore, but I used these for working.
 
