@@ -2,7 +2,7 @@
 <br/>
 <a href="https://hbyun.tistory.com/"><img src="https://t1.daumcdn.net/tistory_admin/static/top/favicon_0630.ico" width="36px"></a>
 <a href="mailto:gumyoincirno@gmail.com"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="36px"></a><br>
-<img src="https://bicon.gumyo.net/api/icon?width=1250&height=250&icon=ts&text=TypeScript&bgColor=%230066C6&borderRadius=20&textColor=%23FFF" height="25px" width="125px" />
+<img src="https://bicon.gumyo.net/api/icon?width=1250&height=250&textColor=%23FFF&text=Typescript&borderRadius=20&icon=ts&bgColor=%23007aFF" height="25px" width="125px" />
 <img src="https://bicon.gumyo.net/api/icon?width=1250&height=250&icon=js&text=JavaScript&bgColor=%23EC0&borderRadius=20&textColor=%23000" height="25px" width="125px" />
 <img src="https://bicon.gumyo.net/api/icon?width=1250&height=250&icon=java&text=J+a+v+a&bgColor=%23F5F5F5&borderRadius=20&textColor=%23000" height="25px" width="125px" />
 <br>
