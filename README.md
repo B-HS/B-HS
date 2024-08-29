@@ -23,6 +23,6 @@
 <section>
 <img src="https://bicon.gumyo.net/api/icon?width=600&height=200&icon=java&text=Java&bgColor=%23F5F5F5&borderRadius=20&textColor=%23000" height="20px" width="60px" alt="Java" />
 <img src="https://bicon.gumyo.net/api/icon?width=500&height=200&icon=vue&text=Vue&bgColor=%23AFA&borderRadius=20&textColor=%23000" height="20px" width="50px" alt="Vue" />
-<img src="https://bicon.gumyo.net/api/icon?width=1000&height=200&icon=spring&text=Spring+boot&bgColor=%23DFC&borderRadius=20&textColor=%23000" height="20px" width="100px" alt="Springboot" />
+<img src="https://bicon.gumyo.net/api/icon?width=1000&height=200&icon=spring&text=Spring+boot&bgColor=%23DFB&borderRadius=20&textColor=%23000" height="20px" width="100px" alt="Springboot" />
 <img src="https://bicon.gumyo.net/api/icon?width=800&height=200&icon=express&text=Express&bgColor=%23999&borderRadius=20&textColor=%23FFF" height="20px" width="80px" alt="Express" />
 </section>
