@@ -18,7 +18,7 @@
 
 
 
-###### Not using anymore, but I used these for working.
+###### Not using anymore, but I used these for work.
 
 <section>
 <img src="https://bicon.gumyo.net/api/icon?width=600&height=200&icon=java&text=Java&bgColor=%23F5F5F5&borderRadius=20&textColor=%23000" height="20px" width="60px" alt="Java" />
